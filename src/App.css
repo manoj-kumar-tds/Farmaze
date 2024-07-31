@@ -47,3 +47,18 @@
   text-align: center;
   word-wrap: break-word
 }
+.button-style { 
+  background: #F16870; 
+  border-radius: 20px; 
+  justify-content: center; 
+  align-items: center; 
+  gap: 25px; 
+  display: inline-flex
+}
+.button-style1 { 
+  color: white; 
+  font-size: 20px; 
+  font-family: Inter; 
+  font-weight: 600; 
+  word-wrap: break-word
+}
