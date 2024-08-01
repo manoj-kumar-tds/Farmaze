@@ -53,12 +53,17 @@
   justify-content: center; 
   align-items: center; 
   gap: 25px; 
-  display: inline-flex
-}
-.button-style1 { 
+  border-color: transparent;
+  display: inline-flex;
   color: white; 
-  font-size: 20px; 
+  font-size: 16px; 
   font-family: Inter; 
   font-weight: 600; 
-  word-wrap: break-word
+}
+.login-header {
+  height: 100px;
+  background-color: white;
+}
+.content {
+  height: 100% !important;
 }
