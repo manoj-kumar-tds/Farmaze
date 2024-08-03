@@ -5,6 +5,8 @@ import {
 } from "react-router-dom";
 import router from "./Pages/Router/router";
 import "./App.css"
+import "./Orders.css"
+import "./Responsive.css"
 
 const App = () => {
 

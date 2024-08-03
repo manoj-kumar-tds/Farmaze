@@ -1,0 +1,41 @@
+.navbar-section h4 a, .navbar-section h4 a:hover, .navbar-section h4 a:active {
+    font-weight: 600;
+    font-size: 24px;
+    margin-bottom: 0px;
+    margin-right: 65px;
+    color: #382E2C;
+    text-decoration: none;
+  }
+  
+  .nav-button-container {
+    margin-top: 60px;
+  }
+
+  .nav-button-section {
+    font-family: Inter !important; 
+    padding: 10px 25px !important; 
+    font-weight: 600 !important; 
+    font-size: 24px !important; 
+    color: #fff !important; 
+    background-color: #656363 !important; 
+    border-radius: 8px !important;  
+    border: none !important; 
+    text-decoration: none !important;
+    border: none !important; 
+    text-transform: none !important;
+  }
+  
+  .nav-button-section.active {
+    color: #fff !important; 
+    background-color: #F16870 !important; 
+  }
+
+  .navs {
+    display: flex;
+    align-items: center;
+    justify-content: space-around;
+  }
+
+  .css-1aquho2-MuiTabs-indicator {
+    display: none;
+  }
